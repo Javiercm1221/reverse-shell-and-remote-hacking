@@ -11,13 +11,14 @@
     "preview": "https://github.com/breatheco-de/reverse-shell-and-remote-hacking/blob/main/assets/preview.jpg?raw=true",
     "repository": "https://github.com/breatheco-de/reverse-shell-and-remote-hacking",
     "duration": 2,
+    "projectType": "project",
     "difficulty": "intermediate",
     "bugsLink": "https://github.com/breatheco-de/breatheco-de/issues/new",
     "technologies": ["cybersecurity", "hacking", "cybersecurity", "ciberseguridad", "linea de comandos", "terminal", "command line"],
     "graded": false,
     "telemetry": {
-        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
-    },
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1995"
+	},
     "delivery": {
 		    "formats": ["no_delivery"]
 	  }

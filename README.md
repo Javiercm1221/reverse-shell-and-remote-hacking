@@ -1,5 +1,5 @@
-# Windows CMD Commands for Remote Hacking
 <!-- hide -->
+# Windows CMD Commands for Remote Hacking
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/commands-for-remote-hacking/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -7,16 +7,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *These instructions are also [available in Spanish](https://github.com/breatheco-de/reverse-shell-and-remote-hacking/blob/main/README.es.md)*
-<!-- endhide -->
 
 ### Before you start...
 
 > We need you! These exercises are created and maintained in collaboration with people like you. If you find any errors or typos, please contribute and/or report them.
+<!-- endhide -->
 
 ## 🌱 How to Start This Project
 
 This exercise aims to utilize Windows CMD commands in the context of a remote connection, simulating a remote hacking attack. This tutorial will help you establish a reverse shell from a Windows 10 machine to a Kali Linux machine, executing a series of commands to gather critical information from the Windows system. All of this will be done in a controlled environment, using virtual machines, and will focus on the post-exploitation phase of an ethical attack.
-
 
 ### Requirements
 
